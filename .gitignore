@@ -138,3 +138,5 @@ dmypy.json
 cython_debug/
 user_data/data/*.*
 user_data/config-secret.json
+user_data/logs/*.*
+user_data/tradesv3.sqlite
