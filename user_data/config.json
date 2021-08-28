@@ -1,6 +1,6 @@
 {
-    "max_open_trades": 4,
-    "stake_currency": "BUSD",
+    "max_open_trades": 5,
+    "stake_currency": "USDT",
     "stake_amount": "unlimited",
     "amend_last_stake_amount ": true,
     "tradable_balance_ratio": 0.99,
@@ -9,8 +9,8 @@
     "dry_run_wallet": 100,
     "cancel_open_orders_on_exit": false,
     "unfilledtimeout": {
-        "buy": 30,
-        "sell": 10,
+        "buy": 10,
+        "sell": 30  ,
         "unit": "seconds"
     },
     "order_types": {
