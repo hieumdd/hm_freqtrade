@@ -26,4 +26,4 @@ services:
       --db-url sqlite:////freqtrade/user_data/tradesv3.sqlite
       --config /freqtrade/user_data/config.json
       --config /freqtrade/user_data/config-secret.json
-      --strategy MultiMA_TSL
+      --strategy NostalgiaForInfinityV7
