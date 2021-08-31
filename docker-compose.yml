@@ -28,4 +28,4 @@ services:
       --config /freqtrade/user_data/config-blacklist.json
       --config /freqtrade/user_data/config-pairlist.json
       --config /freqtrade/user_data/config-secret.json
-      --strategy NostalgiaForInfinityV6
+      --strategy NotAnotherSMAOffsetStrategy_uzi3
